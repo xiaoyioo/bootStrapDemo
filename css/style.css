@@ -1,0 +1,25 @@
+
+/* div{ */
+    /* border: 1px solid black; */
+    /* background:blue; */
+/* } */
+
+/* @media(max-width:767px){
+    div{
+        background:red;
+    }
+} */
+
+@media(min-width:768px){
+    .slide-sub{
+        width:250px;
+        margin-top:51px;
+        position:absolute;
+        z-index:100;
+        height:600px;
+    }
+
+    .page_main{
+        margin-left:254px;
+    }
+}
